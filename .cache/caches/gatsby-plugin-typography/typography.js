@@ -1,1 +1,0 @@
-module.exports = require("C:\\Users\\AdminTL\\OneDrive\\Documents\\GitHub\\gatsby-contentful-1\\src\\utils\\typography")
